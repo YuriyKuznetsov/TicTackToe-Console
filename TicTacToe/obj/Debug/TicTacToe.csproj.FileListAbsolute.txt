@@ -1,0 +1,6 @@
+d:\my\documenti\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+d:\my\documenti\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+d:\my\documenti\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+d:\my\documenti\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+d:\my\documenti\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+d:\my\documenti\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
